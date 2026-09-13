@@ -3291,8 +3291,8 @@ body {
   width: 480px;
   max-width: 100%;
   height: 320px;
-  border: 1px solid #eee;
-  background: white;
+  /* border: 1px solid #eee; */
+  /* background: white; */
 }
 
 .newsletter-cta {
