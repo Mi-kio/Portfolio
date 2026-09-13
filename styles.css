@@ -3251,3 +3251,18 @@ body {
   }
 
 }
+
+
+.footer-iframe {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background: #000;
+}
+
+.footer-iframe iframe {
+  width: 280px;
+  height: 150px;
+  border: none;
+  background: #000;
+}
